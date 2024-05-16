@@ -1,2 +1,2 @@
-# June-Uze-Resume-Project
-A Capstone Project of Resume of June Uze (Imaginary Person).
+# Jin-hyeong-Resume-Project
+A Capstone Project of Resume of Jin hyeong (Imaginary Person).
